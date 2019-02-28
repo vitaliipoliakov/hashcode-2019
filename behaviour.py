@@ -8,11 +8,6 @@ def search_next_v(start, pics):
 	pass
 
 
-def check_score(stitch):
-	
-	pass
-
-
 def main():
 	[n_pics, pics] = read_input(sys.argv[1])
 	print(pics)
